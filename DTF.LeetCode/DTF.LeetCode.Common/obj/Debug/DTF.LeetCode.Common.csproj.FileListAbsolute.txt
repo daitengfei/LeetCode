@@ -1,0 +1,5 @@
+D:\workspace\demo\leetcode\DTF.LeetCode\DTF.LeetCode.Common\bin\Debug\DTF.LeetCode.Common.dll
+D:\workspace\demo\leetcode\DTF.LeetCode\DTF.LeetCode.Common\bin\Debug\DTF.LeetCode.Common.pdb
+D:\workspace\demo\leetcode\DTF.LeetCode\DTF.LeetCode.Common\obj\Debug\DTF.LeetCode.Common.csprojResolveAssemblyReference.cache
+D:\workspace\demo\leetcode\DTF.LeetCode\DTF.LeetCode.Common\obj\Debug\DTF.LeetCode.Common.dll
+D:\workspace\demo\leetcode\DTF.LeetCode\DTF.LeetCode.Common\obj\Debug\DTF.LeetCode.Common.pdb
